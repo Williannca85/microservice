@@ -61,16 +61,8 @@ POST /api/events: Cria um novo evento.
 PUT /api/events/{id}: Atualiza um evento existente.
 DELETE /api/events/{id}: Remove um evento.
 
-## Endpoints Disponíveis
-Contribuições são bem-vindas! Para contribuir:
 
-1. Faça um fork do repositório
-   ```bash
-    git fork https://github.com/Williannca85/microservice.git
-   
-2. Crie um branch para sua funcionalidade ou correção de bug:
-  ```bash
-    git checkout -b minha-feature
+
 
 
 
